@@ -1,6 +1,6 @@
 # Tarefa do 1o Bimestre
 
-## copmonentizar react a partir de html
+## componentizar react a partir de html
 **Tarefas**
 1. Criar uma aplicação react
 2. Copiar código html para App.tsx
